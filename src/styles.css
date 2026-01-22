@@ -233,14 +233,7 @@
   }
 }
 
-@media (max-width: 1200px) {
-  .theme-toggle-btn {
-    height: 20px;
-    width: 40px;
-    margin-left: 100px;
-    right: -138px;
-  }
-  
+@media (max-width: 1000px) {
   .blob {
     width: 280px;
     height: 280px;
