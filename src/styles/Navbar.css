@@ -75,7 +75,7 @@
   color: #ffffff;
 }
 
-@media (max-width: 1600px) {
+@media (max-width: 1200px) {
   .navbar-logo {
     margin-left: -50px;
   }
@@ -84,7 +84,7 @@
     visibility: hidden;
   }
 
-    .navbar-links {
+  .navbar-links {
     position: fixed;
     top: 0;
     right: -100%;
